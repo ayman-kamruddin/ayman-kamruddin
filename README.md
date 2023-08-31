@@ -1,7 +1,5 @@
 - Hi, I’m @ayman-kamruddin
 - I’m interested in AI-Human interaction
-- I’m currently learning Reinforcement Learning
-- Personal website: https://sites.google.com/view/ayman-bin-kamruddin/home
 - How to reach me: ayman.binkamruddin@unina.it
 
 <!---
