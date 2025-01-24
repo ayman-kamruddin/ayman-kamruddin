@@ -1,7 +1,5 @@
 Hello World!
 
-Welcome to my code corner!
-
 Contact: a.bin.kamruddin@gmail.com
 
 <!---
